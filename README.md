@@ -9,7 +9,7 @@ Aktuelle Open Source Software-Projekte:
 * 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (Fertig!) (NodeJS)
 * 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (Python)
 * ⚠️ Automatisierte Suche nach Schwachstellen (Python)
-* 🕸 P2P Web3 Lernprojekt (JavaScript)
+* 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (JavaScript)
 
 Alle weiteren Projekte und Experimente sind auf meiner Webseite 
 [www.1337core.de](https://www.1337core.de) verlinkt.
