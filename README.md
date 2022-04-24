@@ -4,10 +4,11 @@ Ich beschäftigte mich mit dem WWW, Cybersecurity und streame regelmäßig
 auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
-Aktuelle Open Source Software-Projekte:
+Aktuelle Open-Source-Projekte:
 * 🕵🏻‍♂️ [Deep Web Scanner](https://github.com/Leetcore/deepweb) (Python)
 * 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (Fertig!) (NodeJS)
 * 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (Python)
+* 📃 [Pentesting Spickzettel](https://github.com/Leetcore/1337-observer)
 * ⚠️ Automatisierte Suche nach Schwachstellen (Python)
 * 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (JavaScript)
 
