@@ -8,7 +8,7 @@ Aktuelle Open-Source-Projekte:
 * 🕵🏻‍♂️ [Deep Web Scanner](https://github.com/Leetcore/deepweb) (Python)
 * 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (Fertig!) (NodeJS)
 * 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (Python)
-* 📃 [Pentesting Spickzettel](https://github.com/Leetcore/1337-observer)
+* 📃 [Hacker Spickzettel](https://github.com/Leetcore/1337-observer)
 * ⚠️ Automatisierte Suche nach Schwachstellen (Python)
 * 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (JavaScript)
 
