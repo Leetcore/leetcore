@@ -12,8 +12,9 @@ Aktuelle Open Source Software-Projekte:
 * 🕸 P2P Web3 Lernprojekt (JavaScript)
 
 Alle weiteren Projekte und Experimente sind auf meiner Webseite 
-[www.1337core.de](https://www.1337core.de) verlinkt. Mein Hacker-Buch für 
-Anfänger "[Wie werde ich Hacker?](https://github.com/Leetcore/wie-werde-ich-hacker)" 
-ist auch auf Github zu finden.
+[www.1337core.de](https://www.1337core.de) verlinkt.
 
-Auf meiner Website gibt es das Buch auch in Farbe und mit Screenshots.
+Mein Hacker-Buch für Anfänger 
+"[Wie werde ich Hacker?](https://github.com/Leetcore/wie-werde-ich-hacker)" 
+ist auch auf Github zu finden. Auf meiner Website gibt es das Buch auch in 
+Farbe und mit Screenshots.
