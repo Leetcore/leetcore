@@ -1,6 +1,6 @@
 # Hey 👋
 
-Ich beschäftigte mich mit dem WWW, Cybersecurity und streame regelmäßig 
+Ich beschäftige mich mit dem WWW, Cybersecurity und streame regelmäßig 
 auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
