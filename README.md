@@ -6,11 +6,11 @@ Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337cor
 
 Aktuelle Open-Source-Projekte:
 * 🕵🏻‍♂️ [Deep Web Scanner](https://github.com/Leetcore/deepweb) (Python)
-* 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (Fertig!) (NodeJS)
-* 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (Python)
-* 📃 [Pentesting/Hacker Spickzettel](https://github.com/Leetcore/1337-observer)
-* ⚠️ Automatisierte Suche nach Schwachstellen (Python)
-* 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (JavaScript)
+* 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (NodeJS)
+* 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (WIP, Python)
+* 📃 [Pentesting/Hacker Spickzettel](https://github.com/Leetcore/1337-observer) (Text)
+* ⚠️ Automatisierte Suche nach Schwachstellen (WIP, Python)
+* 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (WIP, JavaScript)
 
 Alle weiteren Projekte und Experimente sind auf meiner Webseite 
 [www.1337core.de](https://www.1337core.de) verlinkt.
