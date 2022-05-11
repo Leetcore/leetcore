@@ -5,7 +5,7 @@ auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
 Aktuelle Open-Source-Projekte:
-* 📃 [1337observer Hacker-Spickzettel](https://github.com/Leetcore/1337-observer) (Text)
+* 📃 [Hacker-Spickzettel](https://github.com/Leetcore/1337-observer) (Text)
 * 🕵🏻‍♂️ [Deep Web Scanner](https://github.com/Leetcore/deepweb) (Python)
 * 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (NodeJS)
 * 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (WIP, Python)
