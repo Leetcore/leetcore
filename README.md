@@ -4,8 +4,6 @@ Ich beschäftige mich mit dem WWW, Cybersecurity und streame regelmäßig
 auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
-[Conti-Leak Manual](https://github.com/Leetcore/conti-manual-english)
-
 Aktuelle Open-Source-Projekte:
 * ⚠️ [Automatisierte Suche nach Schwachstellen](https://github.com/Leetcore/vulnscanner-simple) (Python)
 * 📃 [Hacker-Spickzettel](https://github.com/Leetcore/1337-observer) (Text)
