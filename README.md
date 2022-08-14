@@ -8,6 +8,7 @@ Aktuelle Open-Source-Projekte:
 <ul>
     <li>🏠 <a href="https://github.com/Leetcore/recon-deutschland">Recon Deutschland - Alle Webseiten der Bundesländer, Städte, Gemeinden und Dörfer.</a> (Python)</li>
     <li>🔑 <a href="https://github.com/Leetcore/password-leaks">Analyse der Passwortleaks von 100 größten Unternehmen in Deutschland</a> (Python)</li>
+    <li>📝 <a href="https://github.com/Leetcore/python-blog-generator">Static Blog Generator</a> (Python)</li>
     <li>🔥 <a href="https://github.com/Leetcore/1337-observer">Hacker-Spickzettel</a> (Textdatei)</li>
     <li>🔒 <a href="https://github.com/Leetcore/vulnscanner-simple">Automatisierte Suche nach Schwachstellen (Python)</a></li>
     <li>🕵🏻‍♂️ <a href="https://github.com/Leetcore/deepweb">Deep Web Scanner</a> (Python)</li>
