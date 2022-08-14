@@ -5,12 +5,16 @@ auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
 Aktuelle Open-Source-Projekte:
-* ⚠️ [Automatisierte Suche nach Schwachstellen](https://github.com/Leetcore/vulnscanner-simple) (Python)
-* 📃 [Hacker-Spickzettel](https://github.com/Leetcore/1337-observer) (Text)
-* 🕵🏻‍♂️ [Deep Web Scanner](https://github.com/Leetcore/deepweb) (Python)
-* 🔊 [Soundboard für Twitch](https://github.com/Leetcore/twitch-soundboard) (NodeJS)
-* 🔍 [Einfache Suchmaschine mit Crawler](https://github.com/Leetcore/go-fiffy) (WIP, Python)
-* 🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (WIP, JavaScript)
+<ul>
+    <li>🏠 <a href="https://github.com/Leetcore/recon-deutschland">Recon Deutschland - Alle Webseiten der Bundesländer, Städte, Gemeinden und Dörfer.</a> (Python)</li>
+    <li>🔑 <a href="https://github.com/Leetcore/password-leaks">Analyse der Passwortleaks von 100 größten Unternehmen in Deutschland</a> (Python)</li>
+    <li>🔥 <a href="https://github.com/Leetcore/1337-observer">Hacker-Spickzettel</a> (Textdatei)</li>
+    <li>🔒 <a href="https://github.com/Leetcore/vulnscanner-simple">Automatisierte Suche nach Schwachstellen (Python)</a></li>
+    <li>🕵🏻‍♂️ <a href="https://github.com/Leetcore/deepweb">Deep Web Scanner</a> (Python)</li>
+    <li>🔊 <a href="https://github.com/Leetcore/twitch-soundboard">Soundboard für Twitch</a> (Python)</li>
+    <li>🔍 <a href="https://github.com/Leetcore/go-fiffy">Einfache Suchmaschine mit Crawler</a> (WIP, Python)</li>
+    <li>🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (WIP, JavaScript)</li>
+</ul>
 
 Alle weiteren Projekte und Experimente sind auf meiner Webseite 
 [www.1337core.de](https://www.1337core.de) verlinkt.
