@@ -7,6 +7,7 @@ Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337cor
 
 Aktuelle Open-Source-Projekte:
 			<ul>
+				<li>😻 <a href="https://github.com/Leetcore/ninja-hacker-cat">Ninja-Hacker-Cat prüft Webseites automatisch auf Sicherheitslücken</a> (Javascript)</li>
 				<li>🏠 <a href="https://github.com/Leetcore/recon-deutschland">Recon Deutschland - Alle Webseiten der Bundesländer, Städte, Gemeinden und Dörfer.</a> (Python)</li>
 				<li>🔑 <a href="https://github.com/Leetcore/password-leaks">Analyse der Passwortleaks von den 100 größten Unternehmen in Deutschland</a> (Python)</li>
 				<li>📝 <a href="https://github.com/Leetcore/python-blog-generator">Static Blog Generator</a> (Python)</li>
