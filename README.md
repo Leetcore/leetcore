@@ -26,3 +26,6 @@ Mein Hacker-Buch für Anfänger
 "[Wie werde ich Hacker?](https://github.com/Leetcore/wie-werde-ich-hacker)" 
 ist auch auf Github zu finden. Auf meiner Website gibt es das Buch auch in 
 Farbe und mit Screenshots.
+
+Wer meine Projekte unterstützen will, kann <a href="https://github.com/sponsors/Leetcore">GitHub Sponsoring</a> 
+nutzen oder mir einen <a href="https://ko-fi.com/leetcore">Kaffee auf Ko-Fi</a> ausgeben.
