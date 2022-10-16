@@ -1,8 +1,7 @@
 # Hey 👋
 
 Ich beschäftige mich mit dem WWW, Cybersecurity und streame regelmäßig 
-auf 📺  [Twitch](https://www.twitch.tv/leetcore). Hier gibt es meinen Blog 
-als <a href="http://1337core.de/blog/feed.rss">RSS-Futter</a>!
+auf 📺  [Twitch](https://www.twitch.tv/leetcore).
 Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
 
 Aktuelle Open-Source-Projekte:
