@@ -27,4 +27,4 @@ ist auch auf Github zu finden. Auf meiner Website gibt es das Buch auch in
 Farbe und mit Screenshots.
 
 Wer meine Projekte unterstützen will, kann <a href="https://github.com/sponsors/Leetcore">GitHub Sponsoring</a> 
-nutzen oder mir einen <a href="https://ko-fi.com/leetcore">Kaffee auf Ko-Fi</a> ausgeben.
+nutzen und mir einen Kaffee ausgeben.
