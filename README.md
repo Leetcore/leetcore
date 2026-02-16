@@ -1,8 +1,7 @@
 # Hey 👋
 
-Ich beschäftige mich mit dem WWW, Cybersecurity und streame manchmal  
-auf 📺  [Twitch](https://www.twitch.tv/leetcore).
-Außerdem melde ich hobbymäßig ⚡️ [Sicherheitslücken](https://www.1337core.de/hacks.htm).
+Ich beschäftige mich mit dem WWW und Cybersecurity.
+Schaut doch mal auf meinem ⚡️ [Blog](https://www.1337core.de/blog) vorbei.
 
 Aktuelle Open-Source-Projekte:
 			<ul>
@@ -18,9 +17,6 @@ Aktuelle Open-Source-Projekte:
 				<li>🔍 <a href="https://github.com/Leetcore/go-fiffy">Einfache Suchmaschine mit Crawler</a> (WIP, Python)</li>
 				<li>🕸 P2P Web3 Lernprojekt (natürlich ohne Blockchain) (WIP, JavaScript)</li>
 			</ul>
-
-Alle weiteren Projekte und Experimente sind auf meiner Webseite 
-[www.1337core.de](https://www.1337core.de) verlinkt.
 
 Mein Hacker-Buch für Anfänger 
 "[Wie werde ich Hacker?](https://github.com/Leetcore/wie-werde-ich-hacker)" 
